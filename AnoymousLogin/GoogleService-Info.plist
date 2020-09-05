@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612946833028-tr3b3a0pl0s5plja3d15upi7lbe99v7d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612946833028-tr3b3a0pl0s5plja3d15upi7lbe99v7d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTKS-pVFkXuZdScqQLFEN29poJ-Ly9hEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612946833028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.ne.ezweb.mkt-1125.AnoymousLogin</string>
+	<key>PROJECT_ID</key>
+	<string>anonymouslogin-17eac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anonymouslogin-17eac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612946833028:ios:274fba84fee5c936151cd1</string>
+	<key>DATABASE_URL</key>
+	<string>https://anonymouslogin-17eac.firebaseio.com</string>
+</dict>
+</plist>
